@@ -9,7 +9,7 @@ Analyzing sales data from Flipkart, one of India's leading e-commerce platforms,
 
 ### Background Formatting:
 - Set dimensions for the dashboard.
-- Import and set a background image for the dashboard.
+- Import and set a background image for the dashboard.  
 
 ### Slicer Creation:
 - Create a slicer for year-wise filtering.
