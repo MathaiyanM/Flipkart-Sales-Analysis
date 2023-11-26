@@ -1,39 +1,51 @@
 # Flipkart-Sales-Analysis
+## Project Overview:
+Analyzing sales data from Flipkart, one of India's leading e-commerce platforms, can provide valuable insights into consumer behavior, popular product categories, seasonal trends, and more. Here's an overview of how you might approach a Flipkart sales analysis project:
 
 ### Data Preparation and Analysis:
-1. Load the "Flipkart Sales" dataset into PowerBI.
-2. Analyze tables, identify relationships, and transform data using Power Query Editor.
-3. Clean data by addressing missing or inconsistent values, removing duplicates, and irrelevant columns.
+- Load the "Flipkart Sales" dataset into PowerBI.
+- Analyze tables, identify relationships, and transform data using Power Query Editor.
+- Clean data by addressing missing or inconsistent values, removing duplicates, and irrelevant columns.
 
 ### Background Formatting:
-4. Set dimensions for the dashboard.
-5. Import and set a background image for the dashboard.
+- Set dimensions for the dashboard.
+- Import and set a background image for the dashboard.
 
 ### Slicer Creation:
-6. Create a slicer for year-wise filtering.
-7. Apply formatting to slicers for better visualization.
+- Create a slicer for year-wise filtering.
+- Apply formatting to slicers for better visualization.
 
 ### KPIs (Cards) Creation:
-8. Create KPI cards for Sales Projection, Product count, Yearly sum of sales, and Total No of quantity.
+- Create KPI cards for Sales Projection, Product count, Yearly sum of sales, and Total No of quantity.
 
 ### Pie Charts:
-9. Create a Pie Chart for "Sales by Segment" with "Segment" and "Sum of Sales."
-10. Create another Pie Chart for "Sales by Market" with "Market" and "Sum of Sales."
+- Create a Pie Chart for "Sales by Segment" with "Segment" and "Sum of Sales."
+- Create another Pie Chart for "Sales by Market" with "Market" and "Sum of Sales."
 
 ### Map Visual:
-11. Create a Map visual for region-wise sales.
+- Create a Map visual for region-wise sales.
 
 ### Bar Charts:
-12. Create Bar Charts for the Top 5 Profits for Products and Top 10 Profits for Customers.
+- Create Bar Charts for the Top 5 Profits for Products and Top 10 Profits for Customers.
 
 ### Clustered Bar Chart:
-13. Create a Funnel Chart for the Bottom 5 Product Profit.
+- Create a Funnel Chart for the Bottom 5 Product Profit.
 
 ### URL Navigation:
-14. Insert the Flipkart logo.
-15. Enable an action to open the Amazon homepage when the logo is clicked.
-
+- Insert the Flipkart logo.
+- Enable an action to open the Amazon homepage when the logo is clicked.[Flipkart](https://www.flipkart.com/)
 ### Slicer Reset:
-16. Add a button to reset all slicers.
+- Add a button to reset all slicers.
 
 These steps should guide you in creating a comprehensive PowerBI dashboard with the specified features and visualizations
+
+## Visualization:
+![image](https://github.com/MathaiyanM/Flipkart-Sales-Analysis/assets/151845071/a7e3e550-7fbb-4787-8be7-7eb45f6794eb)
+
+
+## Project Scope and Objectives:
+
+### Data Collection: 
+Obtain historical sales data from Flipkart, including details like product categories, sales volume, prices, customer demographics, etc.
+### Analysis Goals: 
+Define specific objectives such as understanding top-selling products, identifying peak sales periods, evaluating customer preferences, etc.
